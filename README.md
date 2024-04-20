@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+SDE Intern and Undergraduate Machine Learning Researcher
+Hackathoner
+Based in NYC
 <!--
 **davidliaos/davidliaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
