@@ -1,9 +1,11 @@
 ### Hi there 👋
-SDE Intern and Undergraduate Machine Learning Researcher
+Current Freelance Data Analyst
+Former SDE Intern
+Former Undergraduate Machine Learning Researcher
 
-Hackathoner
+Hackathoner, 3x winner.
 
-Based in NYC
+Based in NYC and Buffalo
 <!--
 **davidliaos/davidliaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
