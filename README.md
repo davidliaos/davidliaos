@@ -1,5 +1,5 @@
 ### Hi there 👋
-Current Freelance Data Analyst
+Current Data Analyst 
 Former SDE Intern
 Former Undergraduate Machine Learning Researcher
 
