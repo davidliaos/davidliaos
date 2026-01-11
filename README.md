@@ -3,7 +3,7 @@ Current Data Analyst
 Former SDE Intern
 Former Undergraduate Machine Learning Researcher
 
-Hackathoner, 3x winner.
+Hackathoner,10x attendee, 3x winner, 1x organized.
 
 Based in NYC and Buffalo
 <!--
