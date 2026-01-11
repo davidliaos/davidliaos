@@ -1,6 +1,8 @@
 ### Hi there 👋
 Current Data Analyst 
+
 Former SDE Intern
+
 Former Undergraduate Machine Learning Researcher
 
 Hackathoner,10x attendee, 3x winner, 1x organized.
