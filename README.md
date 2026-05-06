@@ -1,9 +1,11 @@
 ### Hi there 👋
-Current Data Analyst 
+Currently building Looma (iOs Application) and Adamantite (data pipeline)
 
-Former SDE Intern
+Former Data Analyst Intern @SUNY ATTAIN Lab
 
-Former Undergraduate Machine Learning Researcher
+Former SDE Intern @ Touch Point Digital Marketting
+
+Former Undergraduate Machine Learning Researcher @RF CUNY
 
 Hackathoner,10x attendee, 3x winner, 1x organized.
 
